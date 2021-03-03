@@ -1,2 +1,4 @@
 # TicTacToe
-A TicTacToe game built for the Odin Project. You can set your usernames and the color of your X's/O's.
+A TicTacToe game built for the <a href='https://www.theodinproject.com/courses/javascript/lessons/tic-tac-toe-javascript'>Odin Project Curriculum</a>. 
+
+You can set both players usernames and preferred colors.
